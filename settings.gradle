@@ -1,0 +1,4 @@
+include ':app', ':pikerview', ':cropper', ':reyclertablayout'
+
+include ':updateSoftDemo'
+include ':qAMasterSDK'
